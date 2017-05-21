@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">First Medical AID</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_world">Salom xurmatli foydalanuvchi bu dasturda siz birinchi tez tibbiy
+        yordam ko\'rsatish bo\'yicha qo\'llanmalarni topishingiz mumkin yoki siz tibbiy yordam
+        ko\'rsatish bo\'yicha noqulayliklarga duch kelsangiz yoki sharoit bo\'lmasa ixtiyoriy vaqtda
+        tez tibbiy yordam xodimlarini bitta tugmachani bosish orqali joylashgan joyingizga chaqirish
+        imkoniyati mavjud
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="kuyish">Kuyish</string>
+    <string name="elektr">Elektr toki urishi</string>
+    <string name="zaxarlanish">Zaxarlanish</string>
+    <string name="qon">Qon yo\'qotsh</string>
+    <string name="hushsizlik">Hushsizlik</string>
+    <string name="quyosh">Quyosh urishi</string>
+    <string name="tishlash">Hayvonlar tishlashi</string>
+    <string name="dori">Dori miqdori oshib ketishi</string>
+    <string name="menu_header">Birinchi tez yordam qo\'llanmasi</string>
+    <string name="send_gps">Xaritada joylashgan joyingizni tez yordam bo\'linmasiga yuborish uchun o\'ng pastki qismdagi tugmaga bosing</string>
+
+
+    <string name="kuyish_c">
+        Kuyishda birinchi yordam
+\n\n
+Inson hayoti havf ostida qolganda (tez tibbiy yordam etib kelguncha) quyidagi chora-tadbirlarni qo\'llash kerak:
+\n\n
+-Agar bolaning kiyimlari yonayotgan bo\'lsa, zudlik bilan yerga yiqitib, kattaroq adyol yoki kiyimni ustiga yopish kerak. Hech narsa topilmasa, olovni o\'chirish uchun uni yerda yumalating.
+\n\n
+-Kuygan joyni zudlik bilan sovuting, buning uchun toza suv quyish kerak. Tananing ancha joyi kuygan bo\'lsa, sovuq suvli vannaga yoki tog\'oraga (yarim soatgacha) solish kerak.
+\n\n
+-Kuygan joyni toza saqlashga harakat qiling. Jarohatni yumshoq, toza latta bilan siqmasdan bog\'lab qo\'ying. Agar kuygan joy tanga hajmidan katta yoki pufakchalar paydo bo\'lsa, albatta shifokorga olib borish kerak. Pufakchalarga tegmang.
+\n\n
+-Kuygan joyga yopishib qolgan narsalarni olmang. Sovuq suvdan boshqa hech narsa tekkizmang.
+\n\n
+-Bemorga meva sharbati yoki qaynagan suvga shakar, tuz solib, ichirib turish kerak.
+    </string>
+    <string name="elektr_c">
+    -Agar bolani yelektr toki ursa yoki kuysa, zudlik bilan tokni o\'chiring. Bola hushidan ketgan bo\'lsa, issiq joyga yotqizib, darhol tez yordamni chaqiring.
+\n\n
+    -Agar bola nafas olishga qiynalsa (yoki nafas olmayotgan bo\'lsa), tekis joyga yotqizib, boshini asta orqaga eging. Burun teshiklarini yopib, og\'zidan nafas yuboring. Bolaning ko\'kragi ko\'tariladigan darajada puflang. Uchgacha sanab, yana puflang. Nafas olishi tiklanmaguncha davom ettiring.
+    </string>
+    <string name="zaxarlanish_c">
+        Oziq-ovqat moddalari bilan zaharlanganda oshqozonni zond orqali 18–20ºC haroratdagi 12–15 l suv bilan (har bir porsiyasi 300–500 ml bo\'lishi kerak) yuvish lozim.
+\nIlon chaqqanda, teri ostiga yoki muskul orasiga toksik modda tushganda 6–8 soatga o\'sha joyga sovuq qo\'yiladi, 0,3 mg 0,1 % li adrenalin eritmasi, ilon chaqqan joyning yuqorisiga esa novokain blokadasi qilinadi.
+\nIngalyatsion zaharlanishda zaharlangan kishini toza havoga olib chiqib, nafas olish yo\'lini kislorod bilan ingalatsiya qilish lozim.
+\nTeriga toksik modda tushganda terini oqar suvda yuvib tashlash kerak.
+\nToksik modda to\'g\'ri ichakka, qinga, siydik pufagiga yuborilganda ularni klizma, sprinsirovka va kateterizatsiya qilish lozim.
+\nToksik moddani qon aylanish sistemasidan chiqarish uchun siydik haydovchi vositalar qo\'llab, diurezni forsirlashdan foydalaniladi.
+    </string>
+    <string name="qon_c1">
+        Qon ketishi
+\n\n
+Qon ketishini to\'xtatish – bu qon yo\'qotishni oldini olish uchun o\'tkaziladigan chora-tadbirlardir. Qon ketishida birinchi yordam haqida so\'z borganda, tashqi qon ketishi nazarda tutiladi. Tomir turidan kelib chiqib ular kapillyar, vena va arterial qon ketishiga bo\'linadi.
+\n\n
+Kapillyar tomirdan qon ketishi aseptik bog\'lam qo\'yish, shuningdek, qo\'l yoki oyoqdan qon ketayotgan bo\'lsa uni baland ko\'tarish bilan to\'xtatiladi.
+\n\n
+Vena tomiridan qon ketsa, qattiq siqib turuvchi bog\'lam qo\'yiladi. Bunda yara bog\'lanadi: yaraga doka qo\'yilib, ustidan bir necha qavat paxta (yoki toza sochiq) ham qo\'yiladi. U qo\'lga mahkam qilib bint bilan bog\'lanadi. Mahkam bog\'langan venadan qon kelishi darhol to\'xtaydi.
+\n\n
+Agar bog\'lam qon tufayli qattiq namlanib ketsa, yarani kaft bilan kuchli bosish zarur.
+\n\n
+Arterial qon ketishini to\'xtatish uchun, tomirni qisish kerak.
+\n\n
+1. Chakka
+\n\n
+2. Jag\'
+\n\n
+3. Uyqu
+\n\n
+4. Bilak
+\n\n
+5. Elka
+\n\n
+6. Qo\'ltiqosti
+\n\n
+7. Son
+\n\n
+8. To\'piq
+    </string>
+    <string name="qon_c2">
+        \nArterial qon tomirni siqish texnikasi: arteriyani barmoq yoki musht bilan suyakka qattiq siqish.
+\n
+Arteriyani qo\'l bilan tezda topsa bo\'ladi. Shuning uchun bu usul samarali.
+\n
+Agar jarohat tomir tugallanishida bo\'lsa, jgutdan foydalanish eng to\'g\'ri yo\'l bo\'ladi.
+\n
+Qonni to\'xtatuvchi jgut qo\'yish texnikasi:
+    </string>
+    <string name="qon_c3">
+        1. Jgutni kiyim yoki yumshoq taglik ustidan, yaradan sal tepa joyga qo\'ying.
+    </string>
+    <string name="qon_c4">
+        2. Jgutni qo\'ying va tomir urishini tekshiring.
+        Qon ketishi to\'xtab, jgut pastidagi teri biroz oqarishi kerak.
+    </string>
+    <string name="qon_c5">
+         3. Yaraga bog\'lam qo\'ying.
+\n
+4. Jgut qo\'yilgan aniq vaqtni yozib qo\'ying.
+\n
+Jgutni ko\'pi bilan 1 soat qo\'yish, keyin jgutni 10-15 daqiqa bo\'shatish lozim.
+        Zarur hollarda uni yana 20 daqiqacha qo\'yish mumkin.
+    </string>
+    <string name="hushsizlik_c">
+        Behushlik
+\n\n
+Behushlik – bu miyadagi qon aylanishining vaqtinchalik buzilishi tufayli tasodifiy hushni yo\'qotish hisoblanadi. Boshqa so\'z bilan aytganda, bu miyaning unga kislorod etib bormayotganligi haqidagi signalidir.
+\n\n
+Odatiy va epileptik behushlikni ajrata olish zarur. Birinchisi ko\'ngil aynishi va bosh aylanishi bilan kechadi.
+\n\n
+Odam hushdan ketishidan oldin ko\'zlarini ko\'p qimirlatadi, uni sovuq ter bosadi. Tomir urishi sekinlashib, tana oxirlari sovuq qotadi.
+\n\n
+Hushdan ketishga quyidagilar sabab bo\'ladi:
+-Qo\'rquv;
+-Hayajonlanish;
+-Havo etishmasligi va boshqalar.
+\n\n
+Agar odam hushdan ketsa, uni qulay qilib yotqizing va toza havo kelishi uchun sharoit yarating (kiyimlari tugmasini eching, kamarini bo\'shating, eshik va derazalarni oching). Jabrlanuvchi yuziga sovuq suv seping, yanoqlariga kaftingiz bilan uring. Agar aptechkangiz bo\'lsa, jabrlanuvchiga nashatir spirti hidlating.
+\n\n
+Agar uning hushi 3-5 daqiqada kelmasa, darhol tez yordam chaqiring.
+\n\n
+Jabrlanuvchi o\'ziga kelganida, unga kuchli qora choy yoki kofe bering.
+    </string>
+    <string name="quyosh_urishi_c">
+        Oftob urgan kishini soya-salqin, bahavo, odamlar ko\'p to\'planmagan, namlik darajasi
+        yuqori bo\'lmagan joyga olish lozim. Bemorni gorizontal holda yotqizib, oyoqlarini bir oz
+        ko\'tarib qo\'yish, toza havo bilan ta\'minlash uchun uni yelpish kerak. Bo\'yin va ko\'krak
+        qafasini siqib turgan kiyimlardan xalos qilish darkor. Bemorga ko\'p miqdorda yaxna
+        ichimlik – bir oz miqdorda tuz va shakar qo\'shilgan mineral suv yoki qatiq ichirish
+        tavsiya etiladi. Oftob urgan kishiga qatiqni bir necha kun davomida ichirish maqsadga
+        muvofiq. Chunki, qatiq organizmni tiklovchi va sovutuvchi tabiiy ichimliklardan biri
+        hisoblanadi. Issiqlab qolgan bemorning yuzini sovuq suv bilan yuvish, biror matoni ho\'llab,
+        uning ko\'krak qafasiga bosish zarur, yana ho\'llangan mato bilan bemorning butun tanasini
+        o\'rash yoki 18-20 C suvda cho\'miltirish ham yaxshi samara beradi.
+    </string>
+</resources>

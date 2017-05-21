@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_zaxarlanish"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/zaxarlanish" />
+        <item
+            android:id="@+id/nav_kuyish"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/kuyish" />
+        <item
+            android:id="@+id/nav_elektr"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/elektr" />
+        <item
+            android:id="@+id/nav_hushsizlik"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/hushsizlik" />
+        <item
+            android:id="@+id/nav_qon"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/qon" />
+        <item
+            android:id="@+id/nav_quyosh"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/quyosh" />
+        <item
+            android:id="@+id/nav_tishlash"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/tishlash" />
+        <item
+            android:id="@+id/nav_dori"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/dori" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
