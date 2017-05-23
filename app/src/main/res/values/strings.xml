@@ -136,4 +136,9 @@ Jabrlanuvchi o\'ziga kelganida, unga kuchli qora choy yoki kofe bering.
         uning ko\'krak qafasiga bosish zarur, yana ho\'llangan mato bilan bemorning butun tanasini
         o\'rash yoki 18-20 C suvda cho\'miltirish ham yaxshi samara beradi.
     </string>
+    <string name="app_has_not_location_permissions">Application has not location permissions. Please enable location permission to user this function</string>
+    <string name="location_sent">Your location has been sent</string>
+    <string name="unexpected_reponse">Oops! Server returned uexpected response. Please try again later</string>
+    <string name="connection_error">Could not connect to server. Please check your connections</string>
+    <string name="could_not_create_request">Could not form location request to send it to server. Please try again</string>
 </resources>
